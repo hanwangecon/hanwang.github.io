@@ -6,5 +6,7 @@ header-img: "img/twitter.jpg"
 ---
 Here I list some interesting readings that I encountered.
 
-<a href="http://matt.might.net/articles/peer-fortress/">Peer fortress: The scientific battlefield</a>
+<ul>
+<li>[Peer fortress: The scientific battlefield](http://matt.might.net/articles/peer-fortress/)</li>
+</ul>
 
