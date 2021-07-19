@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 comments: false
 title: Designing Incentives for Heterogeneous Researchers
 date: 2021-02-05
